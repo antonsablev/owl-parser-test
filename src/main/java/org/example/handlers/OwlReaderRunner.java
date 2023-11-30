@@ -17,7 +17,7 @@ import org.semanticweb.owlapi.reasoner.structural.StructuralReasonerFactory;
 
 import java.util.Set;
 
-public class OwlParserRunner {
+public class OwlReaderRunner {
     private static final Logger logger = LogManager.getLogger(Main.class);
     public void run(String uri) {
         OwlDownloadHandler downloadHandler = new OwlDownloadHandler();

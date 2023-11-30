@@ -78,3 +78,9 @@ g
 7src/main/java/org/example/handlers/OwlParserRunner.java,1\c\1c3cbda1e947538895e05df4a479e97ed3692326
 =
 logs/app1.log,7\7\77183b5a9321ccac786eae2e7f34db04d8b72104
+g
+7src/main/java/org/example/handlers/OwlReaderRunner.java,f\e\fedf7531b75fa98de47073f2393fbfd1c8a37b9e
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
